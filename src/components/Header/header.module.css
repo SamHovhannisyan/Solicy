@@ -1,0 +1,25 @@
+.btnDiv button {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    border: none;
+    background: blue;
+    color: aliceblue;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: 0.5s;
+    font-weight: 800;
+}
+
+.btnDiv button:hover {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    border: none;
+    background: #4e4ee8;
+    color: aliceblue;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: 0.5s;
+    font-weight: 800;
+}
